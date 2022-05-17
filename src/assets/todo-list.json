@@ -1,0 +1,29 @@
+{
+  "init_tasks": [
+    {
+      "id": 1,
+      "title": "Breakfast",
+      "note": "At 8AM"
+    },
+    {
+      "id": 2,
+      "title": "Project Discussion",
+      "note": "2hrs"
+    },
+    {
+      "id": 3,
+      "title": "Class",
+      "note": "At 7:30PM"
+    },
+    {
+      "id": 4,
+      "title": "Shopping",
+      "note": "On 22nd May"
+    },
+    {
+      "id": 5,
+      "title": "Assignment",
+      "note": "On 25th May"
+    }
+  ]
+}
